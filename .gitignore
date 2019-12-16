@@ -1,0 +1,8 @@
+.DS_Store
+.Python
+.idea
+bin/
+output/
+input/
+include/
+lib/
